@@ -46,7 +46,6 @@
         },
         "separator": {
           "type": "separator",
-          "disabled": true,
           "settings": {}
         },
         "offer_iUnyJp": {
@@ -101,6 +100,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_dyHyQb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.payment-icons {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  margin-top: 14px;\n  flex-wrap: wrap;\n}\n\n.payment-icons img {\n  height: 28px;\n  width: auto;\n  display: block;\n}\n</style>\n\n<div class=\"payment-icons\">\n  <img src=\"{{ 'apple-pay.svg' | asset_url }}\" alt=\"Apple Pay\">\n  <img src=\"{{ 'google-pay.svg' | asset_url }}\" alt=\"Google Pay\">\n  <img src=\"{{ 'shop-pay.svg' | asset_url }}\" alt=\"Shop Pay\">\n  <img src=\"{{ 'amex.svg' | asset_url }}\" alt=\"American Express\">\n  <img src=\"{{ 'visa.svg' | asset_url }}\" alt=\"Visa\">\n  <img src=\"{{ 'mastercard.svg' | asset_url }}\" alt=\"Mastercard\">\n</div>"
+          }
+        },
         "liquid_JTFXHp": {
           "type": "liquid",
           "settings": {
@@ -143,6 +148,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "liquid_dyHyQb",
         "liquid_JTFXHp",
         "description",
         "collapsible_text_AaLL8M",
