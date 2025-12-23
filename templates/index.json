@@ -126,6 +126,7 @@
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -145,9 +146,9 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "🚚 Fast Shipping • 🔒 Secure Payments • ⭐ Quality Products",
+        "text": "• FAST SHIPPING • SECURE PAYMENT • QUALITY PRODUCTS",
         "text_size": "small",
-        "text_style": "fill",
+        "text_style": "outline",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
         "background": "",
@@ -361,7 +362,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Outdoor_Lighting_Solar_LED_Spotlight_0_e20bb664-be95-4d1a-bf70-5a77adbe0b56.jpg",
+            "title": "Garden & Outdoor Lights",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -382,7 +384,8 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Ceiling_Light_Fixture_Adjustable_Brightness_1.jpg",
+            "title": "Ceiling Lamps",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -460,6 +463,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -508,6 +512,7 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -565,6 +570,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
