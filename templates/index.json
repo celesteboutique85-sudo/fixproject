@@ -742,6 +742,13 @@
             "content": "<p>Yes, we offer a 30-day return period on unused items in their original condition. Please see our Return & Refund Policy for full details.</p>"
           }
         },
+        "item_facJAa": {
+          "type": "item",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "content": "<p>We accept Visa, Mastercard, American Express, Apple Pay, Google Pay, and Shop Pay.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -753,6 +760,7 @@
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-2",
+        "item_facJAa",
         "166442457738b23caf-1"
       ],
       "settings": {
