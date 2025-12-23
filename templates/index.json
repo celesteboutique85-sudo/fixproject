@@ -69,9 +69,10 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/home_a8cae5cd-4335-4ea7-b871-96ef235f6939.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Home & Kitchen",
+            "link_url": "shopify://collections/home-kitchen",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -81,9 +82,10 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/pet_c7357e3c-7d49-49a7-881d-4efb6e9b7ecf.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Pet Supplies",
+            "link_url": "shopify://collections/pet-supplies",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -93,9 +95,10 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/baby_87f0f222-998b-437c-a87b-29a96b1eff66.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Kids & Baby",
+            "link_url": "shopify://collections/kids-baby",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -105,9 +108,10 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/tools_72454f61-f6be-46d9-be83-04b5d69e6376.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Tools & Essentials",
+            "link_url": "shopify://collections/tools-essentials",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
