@@ -56,6 +56,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/grden_bc9ef4c6-abbe-484b-912e-34e8f82ba030.png",
             "stretch_image": true,
             "link_text": "Garden & Outdoor",
             "link_url": "shopify://collections/garden-outdoor",
