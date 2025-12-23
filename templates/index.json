@@ -15,20 +15,20 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_lumotek_f93f284b-13ee-4c06-b922-f434e0fc7fd5.jpg",
+            "image": "shopify://shop_images/banner_lumatekk.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
             "title": "Discover Everyday Essentials with a Touch of Quality Modern",
-            "heading_tag": "h4",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 45,
             "background": "",
             "background_gradient": ""
           }
