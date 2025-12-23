@@ -88,13 +88,12 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
+        "text_DpGfnj": {
+          "type": "text",
           "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "title": "Business Information",
+            "content": "<p>Store name: Lumatek</p><p>Business Address: 30 N. Gould St. Ste R, Sheridan, WY 82801, United States</p><p>Company registration number: 001783448</p><p>Company name: Altoria LLC</p><p>Phone: +44 7490 301645</p><p>Email: <a>info@lumatek.com</a></p>",
+            "enable_follow_on_shop": true
           }
         },
         "links": {
@@ -112,12 +111,22 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up for new stories and personal offers",
+            "content": ""
+          }
         }
       },
       "block_order": [
-        "newsletter",
+        "text_DpGfnj",
         "links",
-        "links_UN4kCx"
+        "links_UN4kCx",
+        "newsletter"
       ],
       "settings": {
         "show_social_media": true,
