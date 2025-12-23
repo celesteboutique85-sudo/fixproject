@@ -27,11 +27,19 @@
             "text": "We Offer Free Shipping",
             "url": ""
           }
+        },
+        "message_LDCwLE": {
+          "type": "message",
+          "settings": {
+            "text": "Secure Payment",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_x4VnWw"
+        "message_x4VnWw",
+        "message_LDCwLE"
       ],
       "settings": {
         "enable_sticky": false,
