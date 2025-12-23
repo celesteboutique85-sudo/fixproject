@@ -363,8 +363,8 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/lumatekk_3b3eecc2-2332-4cd3-9bae-249d87a27718.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 50
