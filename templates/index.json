@@ -321,6 +321,7 @@
       "blocks": {
         "1664424230c4756b0e-0": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Subheading"
           }
@@ -328,32 +329,45 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "QUALITY PRODUCTS FOR MODERN LIFE",
+            "heading_tag": "h3"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>At Lumatek, we carefully select practical and reliable products designed to make everyday life easier, more comfortable, and more enjoyable. Quality, functionality, and trust are at the heart of everything we offer.</p>"
+          }
+        },
+        "button_hpNwHT": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "ABOUT US",
+            "url": "shopify://pages/over-nova-wardrobe",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
         "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "1664424230c4756b0e-2",
+        "button_hpNwHT"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "md",
+        "image": "shopify://shop_images/lumatekk_3b3eecc2-2332-4cd3-9bae-249d87a27718.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 50
       }
     },
     "media-grid": {
