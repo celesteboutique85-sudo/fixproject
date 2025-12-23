@@ -88,6 +88,15 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up for new stories and personal offers",
+            "content": ""
+          }
+        },
         "text_DpGfnj": {
           "type": "text",
           "settings": {
@@ -111,22 +120,13 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
         }
       },
       "block_order": [
+        "newsletter",
         "text_DpGfnj",
         "links",
-        "links_UN4kCx",
-        "newsletter"
+        "links_UN4kCx"
       ],
       "settings": {
         "show_social_media": true,
