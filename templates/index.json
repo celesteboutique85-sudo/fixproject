@@ -178,7 +178,7 @@
           "settings": {
             "collection": "home-kitchen",
             "subheading": "",
-            "title": "",
+            "title": "HOME & KITCHEN",
             "url": "",
             "heading_tag": "h5",
             "text_position": "place-self-center text-center",
@@ -206,9 +206,9 @@
           "settings": {
             "collection": "kids-baby",
             "subheading": "",
-            "title": "KIDS & Baby",
+            "title": "KIDS & BABY",
             "url": "",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -218,11 +218,11 @@
         "collection_RLWcdj": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "tools-essentials",
             "subheading": "",
-            "title": "",
+            "title": "Tools & Essentials",
             "url": "",
-            "heading_tag": "h2",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
