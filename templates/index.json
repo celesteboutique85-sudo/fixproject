@@ -263,7 +263,7 @@
         "products": [],
         "full_width": true,
         "stack_products": false,
-        "show_progress_bar": false,
+        "show_progress_bar": true,
         "products_count": 8,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
@@ -379,7 +379,7 @@
             "image": "shopify://shop_images/Outdoor_Lighting_Solar_LED_Spotlight_0_e20bb664-be95-4d1a-bf70-5a77adbe0b56.jpg",
             "title": "Garden & Outdoor Lights",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/garden-outdoor-lighting",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -392,7 +392,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         },
         "item-2": {
@@ -401,7 +401,7 @@
             "image": "shopify://shop_images/Ceiling_Light_Fixture_Adjustable_Brightness_1.jpg",
             "title": "Ceiling Lamps",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/ceiling-lamps",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -414,13 +414,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Children_s_LED_Table_Lamp_Touch_Control_1.jpg",
+            "title": "Table Lights",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -435,13 +436,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Outdoor_Wall_Light_Waterproof_Aluminum_0.jpg",
+            "title": "Wall Lights",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -456,7 +458,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         }
       },
