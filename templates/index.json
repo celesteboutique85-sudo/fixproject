@@ -146,9 +146,9 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "• FAST SHIPPING • SECURE PAYMENT • QUALITY PRODUCTS",
-        "text_size": "small",
-        "text_style": "outline",
+        "text": "FREE UK SHIPPING ON ALL ORDERS",
+        "text_size": "xsmall",
+        "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
         "background": "",
