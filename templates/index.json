@@ -731,29 +731,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Do you offer free shipping?",
+            "content": "<p>Yes, we offer free shipping on all orders within the UK.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Can I return my order?",
+            "content": "<p>Yes, we offer a 30-day return period on unused items in their original condition. Please see our Return & Refund Policy for full details.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How can I contact customer service?",
+            "content": "<p>You can contact us by email at <a><strong>info@lumatek.com</strong></a> or via our Contact page. Our customer service is available Monday to Friday, 9:00 AM – 5:00 PM.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "166442457738b23caf-1"
       ],
       "settings": {
         "full_width": false,
