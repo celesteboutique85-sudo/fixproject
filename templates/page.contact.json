@@ -1,1 +1,44 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact":{"type":"contact","settings":{}}},"order":["main","contact"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "contact": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "<p>At Lumatek, we strive for maximum customer satisfaction. Please don’t hesitate to contact our customer service team using the details below or by filling out the contact form.</p><p>Your feedback is extremely valuable to us, and we do our best to respond to all inquiries within one business day.</p><p>You may also visit our FAQ page for answers to frequently asked questions.</p><p>Our customer service team is available Monday through Friday, from 9:00 AM to 5:00 PM.</p><p><strong>Contact Information</strong></p><p>Store name: Lumatek<br/>Address: 30 N. Gould St. Ste R, Sheridan, WY 82801, United States<br/>Company name: Altoria LLC<br/>Company registration number: 001783448<br/>Email: <a>info@lumatek.com</a><br/>Phone: +44 7490 301645<br/>Contact form: Please reach out via our Contact page.</p><p>Customer service hours: Monday to Friday, 9:00 AM – 5:00 PM</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact"
+  ]
+}
