@@ -162,25 +162,25 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "garden-outdoor",
             "subheading": "",
-            "title": "",
+            "title": "GARDEN & OUTDOOR",
             "url": "",
-            "heading_tag": "h2",
+            "heading_tag": "h6",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 20
           }
         },
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "home-kitchen",
             "subheading": "",
             "title": "",
             "url": "",
-            "heading_tag": "h2",
+            "heading_tag": "h5",
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -200,18 +200,48 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
+        },
+        "collection_9ir9Dj": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_RLWcdj": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "collection-1",
         "collection-2",
-        "collection-3"
+        "collection-3",
+        "collection_9ir9Dj",
+        "collection_RLWcdj"
       ],
       "settings": {
         "full_width": true,
         "stack_collections": false,
-        "collections_per_row_mobile": "1",
-        "collections_per_row": 3,
+        "collections_per_row_mobile": "2",
+        "collections_per_row": 5,
         "show_progress_bar": false,
         "subheading": "",
         "title": "Collection list",
