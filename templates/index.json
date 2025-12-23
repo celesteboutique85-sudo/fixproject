@@ -287,11 +287,11 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
+            "subheading": "Satisfaction Guaranteed",
+            "content": "<p>Smooth shopping, secure checkout, and fast delivery for every order, every time.</p>",
+            "button_text": "Our Commitment",
+            "button_url": "shopify://pages/over-nova-wardrobe",
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         }
