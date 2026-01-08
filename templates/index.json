@@ -144,6 +144,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "FREE UK SHIPPING ON ALL ORDERS",
@@ -245,7 +246,7 @@
         "collections_per_row": 5,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Explore Our Categories",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -300,6 +301,7 @@
       "block_order": [
         "1664424181b38582d5-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -815,9 +817,9 @@
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
+    "image-with-text-overlay",
     "featured-collection",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
