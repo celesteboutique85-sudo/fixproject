@@ -24,7 +24,7 @@
         "message_x4VnWw": {
           "type": "message",
           "settings": {
-            "text": "We Offer Free Shipping",
+            "text": "Free Shipping In The United Kingdom",
             "url": ""
           }
         },
@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#343434",
+        "background": "#235e2d",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
