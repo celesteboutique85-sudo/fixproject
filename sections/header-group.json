@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "30-Day Return Window",
+            "text": "30 dagars returrätt",
             "url": ""
           }
         },
         "message_x4VnWw": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping In The United Kingdom",
+            "text": "Fri frakt på alla beställningar",
             "url": ""
           }
         },
         "message_LDCwLE": {
           "type": "message",
           "settings": {
-            "text": "Secure Payment",
+            "text": "Säker betalning",
             "url": ""
           }
         }
