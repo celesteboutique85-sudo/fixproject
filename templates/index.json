@@ -15,7 +15,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner_lumatekk.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-start sm:text-start",
@@ -56,7 +55,6 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/grden_bc9ef4c6-abbe-484b-912e-34e8f82ba030.png",
             "stretch_image": true,
             "link_text": "Garden & Outdoor",
             "link_url": "shopify://collections/garden-outdoor",
@@ -69,7 +67,6 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/home_a8cae5cd-4335-4ea7-b871-96ef235f6939.png",
             "stretch_image": true,
             "link_text": "Home & Kitchen",
             "link_url": "shopify://collections/home-kitchen",
@@ -82,7 +79,6 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/pet_c7357e3c-7d49-49a7-881d-4efb6e9b7ecf.png",
             "stretch_image": true,
             "link_text": "Pet Supplies",
             "link_url": "shopify://collections/pet-supplies",
@@ -95,7 +91,6 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/baby_87f0f222-998b-437c-a87b-29a96b1eff66.png",
             "stretch_image": true,
             "link_text": "Kids & Baby",
             "link_url": "shopify://collections/kids-baby",
@@ -108,7 +103,6 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/tools_72454f61-f6be-46d9-be83-04b5d69e6376.png",
             "stretch_image": true,
             "link_text": "Tools & Essentials",
             "link_url": "shopify://collections/tools-essentials",
@@ -257,6 +251,59 @@
         "heading_gradient": ""
       }
     },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "QUALITY PRODUCTS FOR MODERN LIFE",
+            "heading_tag": "h3"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At Lumatek, we carefully select practical and reliable products designed to make everyday life easier, more comfortable, and more enjoyable. Quality, functionality, and trust are at the heart of everything we offer.</p>"
+          }
+        },
+        "button_hpNwHT": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "ABOUT US",
+            "url": "shopify://pages/over-nova-wardrobe",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2",
+        "button_hpNwHT"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "fill",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -318,68 +365,12 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "QUALITY PRODUCTS FOR MODERN LIFE",
-            "heading_tag": "h3"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>At Lumatek, we carefully select practical and reliable products designed to make everyday life easier, more comfortable, and more enjoyable. Quality, functionality, and trust are at the heart of everything we offer.</p>"
-          }
-        },
-        "button_hpNwHT": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "ABOUT US",
-            "url": "shopify://pages/over-nova-wardrobe",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2",
-        "button_hpNwHT"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "fill",
-        "image": "shopify://shop_images/bnre.png",
-        "mobile_image": "shopify://shop_images/tlbnr.png",
-        "mobile_text_position": "place-self-end-center text-center",
-        "desktop_text_position": "sm:place-self-start-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Outdoor_Lighting_Solar_LED_Spotlight_0_e20bb664-be95-4d1a-bf70-5a77adbe0b56.jpg",
             "title": "Garden & Outdoor Lights",
             "heading_tag": "h4",
             "link_url": "shopify://collections/garden-outdoor-lighting",
@@ -401,7 +392,6 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ceiling_Light_Fixture_Adjustable_Brightness_1.jpg",
             "title": "Ceiling Lamps",
             "heading_tag": "h4",
             "link_url": "shopify://collections/ceiling-lamps",
@@ -423,7 +413,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Children_s_LED_Table_Lamp_Touch_Control_1.jpg",
             "title": "Table Lights",
             "heading_tag": "h4",
             "link_url": "",
@@ -445,7 +434,6 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Outdoor_Wall_Light_Waterproof_Aluminum_0.jpg",
             "title": "Wall Lights",
             "heading_tag": "h4",
             "link_url": "",
@@ -757,29 +745,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you offer free shipping?",
-            "content": "<p>Yes, we offer free shipping on all orders within the UK.</p>"
+            "title": "Erbjuder ni fri frakt?",
+            "content": "<p>Ja, vi erbjuder fri frakt på alla beställningar inom Sverige.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Can I return my order?",
-            "content": "<p>Yes, we offer a 30-day return period on unused items in their original condition. Please see our Return & Refund Policy for full details.</p>"
+            "title": "Kan jag returnera min beställning?",
+            "content": "<p>Ja, vi erbjuder 30 dagars returrätt på oanvända varor i originalskick. Vänligen se vår retur- och återbetalningspolicy för fullständig information.</p>"
           }
         },
         "item_facJAa": {
           "type": "item",
           "settings": {
-            "title": "What payment methods do you accept?",
-            "content": "<p>We accept Visa, Mastercard, American Express, Apple Pay, Google Pay, and Shop Pay.</p>"
+            "title": "Vilka betalningsmetoder accepterar ni?",
+            "content": "<p>Vi accepterar Swish, Visa, Mastercard, American Express, Apple Pay, Google Pay och Shop Pay.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "How can I contact customer service?",
-            "content": "<p>You can contact us by email at <a><strong>info@lumatek.com</strong></a> or via our Contact page. Our customer service is available Monday to Friday, 9:00 AM – 5:00 PM.</p>"
+            "content": "<p>Du kan kontakta oss via e-post på <a>info@anna-modehus.com</a> eller via vår kontaktsida. Vår kundservice är tillgänglig måndag till fredag kl. 09.00–17.00.</p>"
           }
         }
       },
@@ -793,11 +781,11 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Answers to common questions about orders, delivery, and returns.</p>",
+        "content": "<p>Svar på vanliga frågor om beställningar, leverans och returer.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "Contact Us",
+        "support_hours": "Vår kundsupport är tillgänglig måndag till fredag kl. 08.00–17.00.",
+        "answer_time": "Genomsnittlig svarstid: 24 timmar",
+        "button_text": "Kontakta oss",
         "button_url": "shopify://pages/contact",
         "text_position": "start",
         "background": "#ffffff",

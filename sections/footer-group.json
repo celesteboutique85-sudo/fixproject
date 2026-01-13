@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free UK Shipping",
-            "content": "<p>Free shipping on all orders within the United Kingdom</p>"
+            "title": "Fri frakt i Sverige",
+            "content": "<p>Fri frakt på alla beställningar inom Sverige</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Our support team is available Monday to Friday, 9:00 AM – 5:00 PM, ready to help you.</p>"
+            "title": "Kundservice",
+            "content": "<p>Vårt supportteam är tillgängligt måndag till fredag kl. 09.00–17.00 och hjälper dig gärna.</p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Easy Returns",
-            "content": "<p>30-day return period on unused items, with a simple and clear return process.</p>"
+            "title": "Enkla returer",
+            "content": "<p>30 dagars returrätt på oanvända varor, med en enkel och tydlig returprocess.</p>"
           }
         },
         "payment": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>All payments are protected with SSL encryption and trusted payment providers.</p>"
+            "title": "Säker betalning",
+            "content": "<p>Alla betalningar skyddas med SSL-kryptering och pålitliga betaltjänstleverantörer.</p>"
           }
         }
       },
@@ -108,7 +108,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "link-to-support",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -116,7 +116,7 @@
         "links_UN4kCx": {
           "type": "links",
           "settings": {
-            "menu": "beleidregels",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
