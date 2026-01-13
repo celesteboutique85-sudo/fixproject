@@ -766,7 +766,7 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How can I contact customer service?",
+            "title": "Hur kan jag kontakta kundservice?",
             "content": "<p>Du kan kontakta oss via e-post på <a>info@anna-modehus.com</a> eller via vår kontaktsida. Vår kundservice är tillgänglig måndag till fredag kl. 09.00–17.00.</p>"
           }
         }
@@ -780,7 +780,7 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Vanliga frågor",
         "content": "<p>Svar på vanliga frågor om beställningar, leverans och returer.</p>",
         "team_avatar_width": 160,
         "support_hours": "Vår kundsupport är tillgänglig måndag till fredag kl. 08.00–17.00.",
