@@ -16,6 +16,47 @@
         "content_width": "80ch"
       }
     },
+    "rich_text_3REgw7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_hU7jiA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_yQxAah": {
+          "type": "heading",
+          "settings": {
+            "text": "Så når du oss",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_hRbtyn": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ul><li><strong>Ring oss:</strong> Har du en snabb fråga eller vill du prata med oss? Kontakta vårt team via vårt telefonnummer.<br/></li><li><strong>Mejla oss:</strong> För frågor, ärenden eller samarbeten är du välkommen att kontakta oss på <a>info@anna-modehus.com</a>. Vi återkommer inom 24 timmar på vardagar.</li><li><strong>Kontaktformulär:</strong> Använd kontaktformuläret nedan för ett snabbt och smidigt sätt att nå oss.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hU7jiA",
+        "heading_yQxAah",
+        "richtext_hRbtyn"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact": {
       "type": "contact",
       "settings": {
@@ -39,6 +80,7 @@
   },
   "order": [
     "main",
+    "rich_text_3REgw7",
     "contact"
   ]
 }
