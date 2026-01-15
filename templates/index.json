@@ -15,10 +15,10 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/cleaned1743509192_hmpg-wb-5.jpg",
+            "image": "shopify://shop_images/bnrrrr.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
             "title": "UPPTÄCK VÅRA NYA KOLLEKTIONER",
             "heading_tag": "h3",
@@ -28,7 +28,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 45,
+            "overlay_opacity": 30,
             "background": "",
             "background_gradient": ""
           }
