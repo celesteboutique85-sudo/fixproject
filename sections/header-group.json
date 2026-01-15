@@ -58,6 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/ana.png",
         "logo_max_width": 250,
         "logo_mobile_max_width": 150,
         "menu": "main-menu",
