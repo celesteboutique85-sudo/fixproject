@@ -57,6 +57,65 @@
         "text_color": ""
       }
     },
+    "multi_column_PAb3cP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_tpbGDq": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Har du frågor?",
+            "heading_tag": "h4",
+            "content": "<p>Besök vår FAQ-sida för snabba svar om:</p><ul><li>Frakt och leverans<br/></li><li>Returer och byten<br/></li><li>Betalningsalternativ<br/></li><li>Storlekar och passform<br/></li></ul><p>Du hittar sidan på vår webbplats för snabb hjälp.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VU4eXb": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Kundtjänstens öppettider",
+            "heading_tag": "h4",
+            "content": "<p>Vi finns här för att göra din upplevelse så smidig som möjligt:</p><p><strong>Måndag–fredag:</strong> kl. 09:00–18:00 <br/><br/><strong>Helger och helgdagar:</strong> Begränsad support, men vi återkommer så snart som möjligt.</p><p>Du kan förvänta dig svar inom 24 timmar på vardagar.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Bx6p7G": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Samarbeta med oss",
+            "heading_tag": "h4",
+            "content": "<p>Älskar du mode lika mycket som vi gör? Oavsett om du är influencer, kreatör eller varumärke – låt oss skapa något inspirerande tillsammans. Kontakta oss via <a><strong>info@anna-modehus.com</strong></a>.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_tpbGDq",
+        "item_VU4eXb",
+        "item_Bx6p7G"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact": {
       "type": "contact",
       "settings": {
@@ -81,6 +140,7 @@
   "order": [
     "main",
     "rich_text_3REgw7",
+    "multi_column_PAb3cP",
     "contact"
   ]
 }
