@@ -11,10 +11,126 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "image_with_text_overlay_8qfQYP": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_xkEPME": {
+          "type": "heading",
+          "settings": {
+            "text": "OM OSS",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xkEPME"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/pexels-sasha-kim-8484066.jpg",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 45
+      }
+    },
+    "rich_text_eGRDAR": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_DdUcWA": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_CaeVcU": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_FEKtXM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>\"Hos ANNA MODEHUS skapar vi trender – vi följer dem inte bara. Mode är mer än tyg och sömmar; det är ett uttryck, en livsstil och ett sätt att visa vem du är. Inspirerade av kreativitet, självförtroende och modern skandinavisk estetik är vårt varumärke byggt på en vision om att göra mode tillgängligt och prisvärt för alla, och att ge dig möjligheten att visa världen din unika stil.\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DdUcWA",
+        "heading_CaeVcU",
+        "richtext_FEKtXM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#6b2e2e",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "rich_text_7NLGDx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_bwJYDw": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_VnFF9T": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_drENp4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bwJYDw",
+        "heading_VnFF9T",
+        "richtext_drENp4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_overlay_8qfQYP",
+    "rich_text_eGRDAR",
+    "rich_text_7NLGDx"
   ]
 }
