@@ -100,8 +100,8 @@
         "text_DpGfnj": {
           "type": "text",
           "settings": {
-            "title": "Business Information",
-            "content": "<p>Store name: ANNA MODEHUS</p><p>Business Address: 30 N. Gould St. Ste R, Sheridan, WY 82801, United States</p><p>Company registration number: 001783448</p><p>Company name: Altoria LLC</p><p>Phone: +44 7490 301645</p><p>Email: <a>info@anna-modehus.com</a></p>",
+            "title": "Företagsinformation",
+            "content": "<p><strong>Butiksnamn:</strong> ANNA MODEHUS<br/><br/><strong>Företagsadress:</strong> 30 N. Gould St. Ste R, Sheridan, WY 82801, United States<br/><br/><strong>Företagsregistreringsnummer:</strong> 001783448<br/><br/><strong>Företagsnamn:</strong> Altoria LLC</p><p><strong>Telefon:</strong> +<br/><br/><strong>E-post:</strong> <a>info@anna-modehus.com</a></p>",
             "enable_follow_on_shop": true
           }
         },
