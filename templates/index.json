@@ -799,6 +799,66 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "faq_T3CNEX": {
+      "type": "faq",
+      "blocks": {
+        "item_beReYk": {
+          "type": "item",
+          "settings": {
+            "title": "Erbjuder ni fri frakt?",
+            "content": "<p>Ja, vi erbjuder fri frakt på alla beställningar inom Sverige.</p>"
+          }
+        },
+        "item_VTQYNg": {
+          "type": "item",
+          "settings": {
+            "title": "Kan jag returnera min beställning?",
+            "content": "<p>Ja, vi erbjuder 30 dagars returrätt på oanvända varor i originalskick. Vänligen se vår retur- och återbetalningspolicy för fullständig information.</p>"
+          }
+        },
+        "item_Tddb3g": {
+          "type": "item",
+          "settings": {
+            "title": "Vilka betalningsmetoder accepterar ni?",
+            "content": "<p>Vi accepterar Swish, Visa, Mastercard, American Express, Apple Pay, Google Pay och Shop Pay.</p>"
+          }
+        },
+        "item_ij8Eqi": {
+          "type": "item",
+          "settings": {
+            "title": "Hur kan jag kontakta kundservice?",
+            "content": "<p>Du kan kontakta oss via e-post på <a>info@anna-modehus.com</a> eller via vår kontaktsida. Vår kundservice är tillgänglig måndag till fredag kl. 09.00–17.00.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_beReYk",
+        "item_VTQYNg",
+        "item_Tddb3g",
+        "item_ij8Eqi"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Vanliga frågor",
+        "content": "<p>Svar på vanliga frågor om beställningar, leverans och returer.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Vår kundsupport är tillgänglig måndag till fredag kl. 08.00–17.00.",
+        "answer_time": "Genomsnittlig svarstid: 24 timmar",
+        "button_text": "Kontakta oss",
+        "button_url": "shopify://pages/contact",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -815,6 +875,7 @@
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
-    "faq"
+    "faq",
+    "faq_T3CNEX"
   ]
 }

@@ -88,21 +88,22 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
         "text_DpGfnj": {
           "type": "text",
           "settings": {
             "title": "Företagsinformation",
             "content": "<p><strong>Butiksnamn:</strong> ANNA MODEHUS<br/><br/><strong>Företagsadress:</strong> 30 N. Gould St. Ste R, Sheridan, WY 82801, United States<br/><br/><strong>Företagsregistreringsnummer:</strong> 001783448<br/><br/><strong>Företagsnamn:</strong> Altoria LLC</p><p><strong>Telefon:</strong> +<br/><br/><strong>E-post:</strong> <a>info@anna-modehus.com</a></p>",
             "enable_follow_on_shop": true
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up for new stories and personal offers",
+            "content": ""
           }
         },
         "links": {
@@ -123,8 +124,8 @@
         }
       },
       "block_order": [
-        "newsletter",
         "text_DpGfnj",
+        "newsletter",
         "links",
         "links_UN4kCx"
       ],
