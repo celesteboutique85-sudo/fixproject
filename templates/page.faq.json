@@ -19,19 +19,19 @@
     "rich_text_bhJm67": {
       "type": "rich-text",
       "blocks": {
-        "subheading_Azwz8p": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_7dTHDy": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Vanliga frågor",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "subheading_Azwz8p": {
+          "type": "subheading",
+          "settings": {
+            "text": "Hos ANNA MODEHUS vill vi att din shoppingupplevelse ska vara enkel, inspirerande och helt utan stress. Nedan hittar du svar på några av de vanligaste frågorna. Om du inte hittar det du söker är du välkommen att kontakta oss via kontaktformuläret, skicka ett e-postmeddelande till info@anna-modehus.com eller ringa oss via vårt telefonnummer."
           }
         },
         "richtext_PY9eqj": {
@@ -42,14 +42,14 @@
         }
       },
       "block_order": [
-        "subheading_Azwz8p",
         "heading_7dTHDy",
+        "subheading_Azwz8p",
         "richtext_PY9eqj"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
